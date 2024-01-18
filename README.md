@@ -2,7 +2,7 @@
 The focus of the project was analyze sales data to gain insights into which cities in the U.S. have sold the most athletic wear over two years. The overall intent is for python education, training and learning.
 
 ## Project Description
-The overall intent is for python education, training and learning. The focus of the project was to analyze sales data to gain insights into which cities in the U.S. have sold the most athletic wear over two years. By running this data we can determine which retailers had the greatest total sales for athletic wear, and which retailers sold the most women's athletic footwear
+The overall intent is for python education, training and learning. The focus of the project was to analyze sales data to gain insights into which cities in the U.S. have sold the most athletic wear over two years. By running this data we can determine which retailers had the greatest total sales for athletic wear, and which retailers sold the most women's athletic footwear.
 
 ### Prerequisites
 
