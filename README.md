@@ -6,7 +6,7 @@ The overall intent is for python education, training and learning. The focus of 
 
 ### Prerequisites
 
-The file with the started code and additional steps and comments to complete the project.
+The file with the started code (atheletic_sales_analysis_starter_cod.jbynb, athletic_sales_2020.csv, athletic_sales_2021.csv) and additional steps and comments to complete the project.
 
 ### Installing
 
